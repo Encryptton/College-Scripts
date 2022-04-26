@@ -1,0 +1,27 @@
+pt
+
+1. Cruzar o rio somente o homem e o bode
+
+2. Deixar a cabra do outro lado e voltar o homem sozinho
+
+3. Cruzar o rio novamente, desta vez o homem e o lobo
+
+4. Deixar o lobo e voltar o homem e o bode
+
+5. Cruzar o rio mais uma vez, desta vez o homem  e a alfafa
+
+6. Voltar ao local inicial pela última vez e buscar o bode
+
+en
+
+1. Cross the river only the man and the goat
+
+2. Leave the goat on the other side and return the man alone
+
+3. Cross the river again, this time the man and the wolf
+
+4. Leave the wolf and return the man and the goat
+
+5. Cross the river once more, this time the man and the alfalfa
+
+6. Return to the starting location for the last time and fetch the goat
